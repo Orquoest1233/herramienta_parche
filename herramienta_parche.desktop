@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=herramienta_parche
+X-Python-2-Compatible=false
+Name=Parche Pro
+Comment=Herramienta de clonación y parche manual.
