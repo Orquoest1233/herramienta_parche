@@ -56,3 +56,4 @@ Since version 2.0, the plugin can be installed as a Python extension. In Krita, 
 ## Authors
 
 - [@Orquoest](https://github.com/Orquoest)
+- [@Orquoest](https://github.com/Orquoest1233)
