@@ -1,4 +1,4 @@
-# Krita parch tool
+# Krita parch tool open version
 A Krita plugin that implements a Photoshop-style patch tool with real-time transformation.
 
 ## Characteristics
